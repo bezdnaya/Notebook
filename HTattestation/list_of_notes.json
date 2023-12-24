@@ -1,0 +1,44 @@
+[
+  {
+    "id": 6,
+    "name": "Test",
+    "text": "Let's check how it works",
+    "date": "22-12-2023, 21:55"
+  },
+  {
+    "id": "22",
+    "name": "New note",
+    "text": "Exactly newest note",
+    "date": "23-12-2023, 22:30"
+  },
+  {
+    "id": 4,
+    "name": "My 2023",
+    "text": "My 2023 was not bad.\\n I worked, stadied, traveled to Moscow, Abkhasia and Ufa.\\n Visited my mom and my friends.",
+    "date": "24-12-2023, 18:52"
+  },
+  {
+    "id": 803,
+    "name": "My 2024",
+    "text": "I hope my 2024 will be nice, cheerfull, easy, peecfull. ",
+    "date": "23-12-2023, 22:56"
+  },
+  {
+    "id": 893,
+    "name": "My game",
+    "text": "My favorite game is volleyball",
+    "date": "24-12-2023, 20:04"
+  },
+  {
+    "id": 476,
+    "name": "My parametrs",
+    "text": "My hight is 157 sm, my weight is 63 kg.",
+    "date": "24-12-2023, 20:05"
+  },
+  {
+    "id": 894,
+    "name": "My gift",
+    "text": "I asked heavy ball from Santa Claus for New Year, becouse I was a good girl.",
+    "date": "24-12-2023, 20:34"
+  }
+]
